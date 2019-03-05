@@ -1,0 +1,55 @@
+header{
+    color:navy;
+    text-align: center;
+    padding: 1px;
+    background-color:gainsboro;
+    font-family:'Righteous', 'cursive';
+}
+
+Body{
+    background-color: white;
+    color: black;
+    text-align: left;
+    border-style: solid;
+    border-color: gainsboro;
+    border-width: 0px 150px 0px 150px;
+    margin: 0px;
+    font-family:'Lato', sans-serif;
+}
+
+h3{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-emphasis: bold;
+    color:navy;
+    text-align: center;
+    font-size: 17px;
+    font-family:'Righteous', 'cursive';
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    margin-right: 360px;
+    margin-left: 360px;
+} 
+
+h4{
+    font-size: 19px;
+    color: navy;
+    text-align: center;
+    font-family:'Righteous', 'cursive';
+}
+
+#hyperlink{
+    height: 30px;
+}
+
+footer{
+    background-color:gainsboro;
+    padding: 10px;
+}
+
+hr{
+    width: 500px;
+}
